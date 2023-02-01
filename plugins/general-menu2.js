@@ -58,7 +58,7 @@ const defaultMenu = {
 │ • Prefix Used: *[ %p ]*
 │ • Database: %rtotalreg dari %totalreg 
 │ • Memory : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
-│ • RestApi's: https://bit.ly/3HLJaS3
+│ • Chanelyoutube owner: https://youtube.com/@RIZKIIRFAN
 ╰────
 ╭─ 「 *USER INFO* 」
 │ • Pengguna:  %name 
@@ -184,15 +184,15 @@ const ftroli = {
                             itemCount : 9999999999999,
                             status: 1,
                             surface : 1,
-                            message: '© TioXd Official',
+                            message: '© ikybot Official',
                             orderTitle: 'MENU',
-                            thumbnail: await (await fetch('https://telegra.ph/file/f4063ab3071f5c4af765a.png')).buffer(),
+                            thumbnail: await (await fetch('https://telegra.ph/file/1a29f2e7929f3c3fd12d2.jpg')).buffer(),
                             sellerJid: '0@s.whatsapp.net'
           
                           }
                         }
                       }
-await conn.sendButtonImg(m.chat, await (await fetch('https://telegra.ph/file/9017b72bb209a0dadb9f5.png')).buffer(),  '•━━━━ ❮❮ *𝙱𝙾𝚃 𝙼𝙴𝙽𝚄* ❯❯ ━━━━━•', text, 'ʙᴀᴄᴋ', '.menu', m, {  
+await conn.sendButtonImg(m.chat, await (await fetch('https://telegra.ph/file/1a29f2e7929f3c3fd12d2.jpg')).buffer(),  '•━━━━ ❮❮ *𝙱𝙾𝚃 𝙼𝙴𝙽𝚄* ❯❯ ━━━━━•', text, 'ʙᴀᴄᴋ', '.menu', m, {  
       quoted: ftroli,  
       contextInfo: { //forwardingScore: 99999, isForwarded: true,  
           externalAdReply: {  showAdAttribution: true, 
@@ -200,7 +200,7 @@ await conn.sendButtonImg(m.chat, await (await fetch('https://telegra.ph/file/901
               body: '© ᴛɪᴏxᴅ', 
               description: 'ᴍᴀᴅᴇ ᴡɪᴛʜ ♡ ᴛɪᴏxᴅ', 
               mediaType: 2,  
-            thumbnail: await (await fetch('https://telegra.ph/file/dc5a67d724b016574129b.jpg')).buffer(), 
+            thumbnail: await (await fetch('https://telegra.ph/file/1a29f2e7929f3c3fd12d2.jpg')).buffer(), 
            mediaUrl: `https://www.facebook.com/tio.permana.50999` 
           }  
        }  
